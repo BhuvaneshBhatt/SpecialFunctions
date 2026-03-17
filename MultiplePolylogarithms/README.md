@@ -1,17 +1,16 @@
 # harmonic-polylog
 
 Arbitrary-precision evaluation of **Harmonic Polylogarithms (HPL)**,
-**Multiple Polylogarithms (MPL)**, and **Multiple Zeta Values (MZV)**,
-translated from the Mathematica `HarmonicPolyLog` package.
+**Multiple Polylogarithms (MPL)**, and **Multiple Zeta Values (MZV)**.
 
 ## Project layout
 
 ```
 harmonic-polylog/
 ├── README.md
-├── pyproject.toml          ← uv-managed project & dependencies
-├── .venv/                  ← virtual environment (created by uv)
-├── notebooks/
+├─pyproject.toml          ← uv-managed project & dependencies
+├─.venv/                  ← virtual environment (created by uv)
+├─notebooks/
 │   └── exploration.ipynb   ← interactive overview with examples & plots
 └── src/
     └── hpl.py              ← core library
