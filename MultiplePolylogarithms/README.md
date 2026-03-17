@@ -3,6 +3,12 @@
 Arbitrary-precision evaluation of **Harmonic Polylogarithms (HPL)**,
 **Multiple Polylogarithms (MPL)**, and **Multiple Zeta Values (MZV)**.
 
+Generalized Polylogarithms
+    ├── Multiple Polylogarithms
+    │       ├── Harmonic Polylogarithms
+    │       └── Goncharov Polylogarithms
+    └── Multiple Zeta Values (constants)
+
 ## Project layout
 
 ```
