@@ -1,5 +1,5 @@
 [project]
-name = "harmonic-polylog"
+name = "hpl"
 version = "0.1.0"
 description = "Harmonic Polylogarithms, Multiple Polylogarithms, and Multiple Zeta Values"
 readme = "README.md"
