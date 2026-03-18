@@ -1,7 +1,6 @@
-# harmonic-polylog
+# HPL
 
-Arbitrary-precision evaluation of **Harmonic Polylogarithms (HPL)**,
-**Multiple Polylogarithms (MPL)**, and **Multiple Zeta Values (MZV)**.
+Arbitrary-precision evaluation of **Harmonic Polylogarithms (HPL)**, **Multiple Polylogarithms (MPL)**, and **Multiple Zeta Values (MZV)**.
 
 Generalized Polylogarithms
     ├── Multiple Polylogarithms
@@ -12,7 +11,7 @@ Generalized Polylogarithms
 ## Project layout
 
 ```
-harmonic-polylog/
+hpl/
 ├── README.md
 ├─pyproject.toml          ← uv-managed project & dependencies
 ├─.venv/                  ← virtual environment (created by uv)
